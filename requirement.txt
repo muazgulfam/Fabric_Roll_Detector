@@ -1,0 +1,6 @@
+opencv-python
+numpy
+streamlit
+ultralytics
+filterpy
+cx_Oracle
